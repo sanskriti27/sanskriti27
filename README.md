@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Sanskriti Agarwal </h1>
+<h1 align="center"> Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sanskriti Agarwal </h1>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskriti27&theme=onedark" alt="pooja-gera" /></a> </p>
