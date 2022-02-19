@@ -8,11 +8,11 @@
 
  - 🌱 I’m currently learning front end development
 
-- I am a designer and a development beginner
+- I am a designer and a developer.
 
-- My primary coding and problem solving language: C++
+- My primary coding and problem solving language: Java
 
-- I am a rotractor and proud to serve my community
+- I use Javascript for Web Development
 
 - I believe in promoting women in STEM
 
